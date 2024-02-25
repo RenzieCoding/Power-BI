@@ -1,0 +1,31 @@
+Key tasks
+
+4/4 key requirements done
+
+I used Power automate(web based)
+Power automate desktop not functioning) 
+
+________________________________________________
+
+Status of Issues with the dashboard
+
+Solved(Extension period)
+
+1. (solved) Not realtime currency-when a button is clicked- the dataset will be refreshed(flow.microsoft.com)
+
+2. (solved) solution at tab Proct count(Issue: correct amount per line but wrong grand total-did not finish if quantity is 
+   less than 40% then new revenue rate 
+    according to category rates
+
+3. (solved)Prod analysis page-
+    region not responsive to table <2000
+
+4. (solved)Customer Ranking page - Multiple number of 
+      queries when selected and ranking still not dynamic when 
+       region/country is selected-
+
+5. (not solved)Dirhan and Quatemalan currency issues
+
+
+
+
